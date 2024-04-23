@@ -13,3 +13,10 @@ datasets/celeba
 checkpoints
 
 .ipynb_checkpoints/
+
+outputs/*
+imgs/*
+imgs_backup/*
+imgs_align/*
+imgs_interpolate/*
+imgs_align copy/*
