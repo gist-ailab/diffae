@@ -3,8 +3,8 @@ import time
 import requests
 import replicate
 
-data = 'mid3'
-target_age = "3"
+data = 'mid1'
+target_age = "25"
 
 image = open(f"imgs_align/{data}.png", "rb")
 
